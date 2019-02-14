@@ -3,6 +3,8 @@ A collection of files related to my personal security research. Additional conte
 
 
 ### Exploits
+* CVE-2019-6724 - Barracuda VPN Client Privilege Escalation on Linux and macOS. PoC: [CVE-2019-6724](vulnerabilities/CVE-2019-6724.sh). Detailed write-up: [CVE-2019-6724: Barracuda VPN Client Privilege Escalation on Linux and macOS](https://blog.mirch.io/XXX/). [Barracuda VPN Client [Release Notes](http://campus.barracuda.com/product/networkaccessclient/doc/78154149/release-notes-barracuda-vpn-client-for-linux/)
+
 * CVE-2018-18629 - Privilege Escalation on Linux via keybase-redirector . PoC: [CVE-2018-18629](vulnerabilities/CVE-2018-18629.sh). Detailed write-up: [CVE-2018-18629: Keybase Linux privilege escalation](https://blog.mirch.io/2018/12/21/cve-2018-18629-keybase-linux-privilege-escalation/). Keybase Advisory: [Local Privilege Escalation on Linux via keybase-redirector (KB002)](https://keybase.io/docs/secadv/kb002)
 
 * CVE-2018-19788 - PolicyKit (aka polkit) 0.115 that allows a user with a uid greater than INT_MAX to successfully execute any systemctl command. PoC: [CVE-2018-19788.sh](vulnerabilities/CVE-2018-19788.sh). Detailed write-up: [CVE-2018-19788 PoC – polkit: Improper handling of user with uid > INT_MAX leading to authentication bypass](https://blog.mirch.io/2018/12/09/cve-2018-19788-poc-polkit-improper-handling-of-user-with-uid-int_max-leading-to-authentication-bypass/). The Hacker News article: [Warning! Unprivileged Linux Users With UID > INT_MAX Can Execute Any Command](https://thehackernews.com/2018/12/linux-user-privilege-policykit.html)
