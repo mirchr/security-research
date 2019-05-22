@@ -8,6 +8,8 @@ A collection of files related to my personal security research. Additional conte
 
 * CVE-2019-6724 - Barracuda VPN Client Privilege Escalation on Linux and macOS. PoC: [CVE-2019-6724](vulnerabilities/CVE-2019-6724.sh). Detailed write-up: [CVE-2019-6724: Barracuda VPN Client Privilege Escalation on Linux and macOS](https://blog.mirch.io/2019/02/14/cve-2019-6724-barracuda-vpn-client-privilege-escalation-on-linux-and-macos/). Barracuda VPN Client [Release Notes](http://campus.barracuda.com/product/networkaccessclient/doc/78154149/release-notes-barracuda-vpn-client-for-linux/)
 
+* CVE-2018-15332 - F5 BIG-IP APM client for Linux and macOS arbitrary file takeover vulnerability. Detailed write-up: [CVE-2018-15332.txt](vulnerabilities/F5/CVE-2018-15332.txt). F5 Advisory: [K12130880](https://support.f5.com/csp/article/K12130880)
+
 * CVE-2018-5529, CVE-2018-5546 - F5 BIG-IP APM client for Linux and macOS vulnerability. Detailed write-up: [CVE-2018-5529.txt](vulnerabilities/F5/CVE-2018-5529.txt). F5 Advisories: [K52171282](https://support.f5.com/csp/article/K52171282), [K54431371](https://support.f5.com/csp/article/K54431371)
 
 * CVE-2018-18629 - Privilege Escalation on Linux via keybase-redirector . PoC: [CVE-2018-18629](vulnerabilities/CVE-2018-18629.sh). Detailed write-up: [CVE-2018-18629: Keybase Linux privilege escalation](https://blog.mirch.io/2018/12/21/cve-2018-18629-keybase-linux-privilege-escalation/). Keybase Advisory: [Local Privilege Escalation on Linux via keybase-redirector (KB002)](https://keybase.io/docs/secadv/kb002)
