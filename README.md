@@ -1,6 +1,8 @@
 # Security Research
 A collection of files related to my personal security research. Additional content will be posted on my blog https://blog.mirch.io.
 
+## Tools
+* [openssldir_check](https://github.com/mirchr/openssldir_check/) - A Windows utility to check for potential insecure paths used by the OPENSSLDIR build parameter in OpenSSL libraries
 
 ## Vulnerabilities
 
