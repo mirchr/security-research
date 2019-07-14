@@ -4,6 +4,8 @@ A collection of files related to my personal security research. Additional conte
 ## Tools
 * [openssldir_check](https://github.com/mirchr/openssldir_check/) - A Windows utility to check for potential insecure paths used by the OPENSSLDIR build parameter in OpenSSL libraries
 * [ssscache2john](https://github.com/mirchr/ssscache2john/) - Convert SSSD LDAP cache files to John The Ripper format
+* [DumpTompcatSessions](https://github.com/mirchr/DumpTomcatSessions/) - Dump Tomcat sessions using JMX
+
 
 ## Vulnerabilities
 
