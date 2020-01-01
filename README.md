@@ -10,6 +10,9 @@ A collection of files related to my personal security research. Additional conte
 
 ## Vulnerabilities
 
+* CVE-2019-19954 - Signal Desktop Windows Elevation of Privilege Vulnerability. Detailed write-up: https://blog.mirch.io/signal-desktop-windows-lpe
+
+
 * CVE-2019-3466 - Debian / Ubuntu PostgreSQL Privilege Escalation via pg_ctlcluster. [CVE-2019-3466-stage1.sh](vulnerabilities/CVE-2019-3466-stage1.sh) [CVE-2019-3466-stage2.sh](vulnerabilities/CVE-2019-3466-stage2.sh). Detailed write-up: https://blog.mirch.io/cve-2019-3466-debian-ubuntu-pg_ctlcluster-privilege-escalation. Debian Advisory: [DSA-4568](https://lists.debian.org/debian-security-announce/2019/msg00220.html). Ubuntu Advisory: [4194-1](https://usn.ubuntu.com/4194-1/)
 
 * CVE-2019-12571 - PIA macOS Arbitrary File Overwrite. [CVE-2019-12571.txt](vulnerabilities/PIA/CVE-2019-12571.txt).
