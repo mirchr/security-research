@@ -10,6 +10,8 @@ A collection of files related to my personal security research. Additional conte
 
 ## Vulnerabilities
 
+* CVE-2020-3950 - VMware Fusion Elevation of Privilege Vulnerability. PoC: [CVE-2020-3950.sh](vulnerabilities/CVE-2020-3950.sh).
+
 * CVE-2019-19954 - Signal Desktop Windows Elevation of Privilege Vulnerability. Detailed write-up: https://blog.mirch.io/signal-desktop-windows-lpe
 
 
