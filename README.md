@@ -10,6 +10,8 @@ A collection of files related to my personal security research. Additional conte
 
 ## Vulnerabilities
 
+* CVE-2025-32463 - Sudo Elevation of Privilege Vulnerability. PoC: [CVE-2025-32463-sudo-chwoot.sh](vulnerabilities/CVE-2025-32463-sudo-chwoot.sh). Detailed write-up: https://www.stratascale.com/vulnerability-alert-CVE-2025-32463-sudo-chroot
+
 * CVE-2020-3950 - VMware Fusion Elevation of Privilege Vulnerability. PoC: [CVE-2020-3950.sh](vulnerabilities/CVE-2020-3950.sh).
 
 * CVE-2019-19954 - Signal Desktop Windows Elevation of Privilege Vulnerability. Detailed write-up: https://blog.mirch.io/signal-desktop-windows-lpe
